@@ -4,34 +4,19 @@ I designed and configured a small network with VLANs, inter-VLAN routing, static
 
 
 Protocols & Technologies Used
+
 VLANs (802.1Q): Logical segmentation of departments
-
-
 Trunking: Router-on-a-stick for multi-VLAN traffic
-
-
 Inter-VLAN Routing: Enabled communication between VLANs
-
-
 Static Routing: Established connectivity between two routers
-
-
 ICMP: Verified end-to-end connectivity with ping tests
-
-
 Subinterfaces & /30 Link: Managed VLAN traffic and router-to-router link
 
-
 Accomplishments
+
 Created VLANs to logically separate departments
-
-
 Configured router-on-a-stick using 802.1Q trunking
-
-
 Enabled routing between VLANs (Inter-VLAN Routing)
-
-
 Built a point-to-point routed link between two routers
 
 
